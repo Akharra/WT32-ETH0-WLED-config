@@ -12,3 +12,19 @@ WiFi (standart):
 1 channel {GPIO2}
 
 Strips {ws281x, 12V}
+-----------------------------
+Presets:
+
+Noise2D
+Hypnotic
+Ripple Peak
+Morgushki
+Midnoise
+Stars
+Gravcentric
+Blurz
+Freqpixels
+Gravfreq
+Noisemove
+Rocktaves
+Scanner Dual
